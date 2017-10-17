@@ -13,7 +13,7 @@
   </url>
   
   <url>
-    <loc>https://niconoe.github.io/posts/my-first-post/</loc>
+    <loc>https://niconoe.github.io/post/my-first-post/</loc>
     <lastmod>2017-09-22T10:00:14+02:00</lastmod>
   </url>
   
@@ -23,13 +23,19 @@
   </url>
   
   <url>
-    <loc>https://niconoe.github.io/posts/</loc>
+    <loc>https://niconoe.github.io/post/</loc>
     <lastmod>2017-09-22T10:00:14+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://niconoe.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://niconoe.github.io/tags/various/</loc>
+    <lastmod>2017-09-22T10:00:14+02:00</lastmod>
     <priority>0</priority>
   </url>
   
