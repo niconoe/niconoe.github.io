@@ -1,23 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on niconoe&#39;s blog</title>
+    <title>Tags on niconoe&#39;s page</title>
     <link>https://niconoe.github.io/tags/</link>
-    <description>Recent content in Tags on niconoe&#39;s blog</description>
+    <description>Recent content in Tags on niconoe&#39;s page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
 	<atom:link href="https://niconoe.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Various</title>
-      <link>https://niconoe.github.io/tags/various/</link>
-      <pubDate>Fri, 22 Sep 2017 10:00:14 +0200</pubDate>
-      
-      <guid>https://niconoe.github.io/tags/various/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

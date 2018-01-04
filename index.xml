@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>niconoe&#39;s blog</title>
+    <title>niconoe&#39;s page</title>
     <link>https://niconoe.github.io/</link>
-    <description>Recent content on niconoe&#39;s blog</description>
+    <description>Recent content on niconoe&#39;s page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Sep 2017 10:00:14 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jan 2018 09:16:21 +0200</lastBuildDate>
     
 	<atom:link href="https://niconoe.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>My first post</title>
-      <link>https://niconoe.github.io/post/my-first-post/</link>
-      <pubDate>Fri, 22 Sep 2017 10:00:14 +0200</pubDate>
+      <title>The simplest Antarctica Map with Leaflet</title>
+      <link>https://niconoe.github.io/post/simplest-antarctica-map-leaflet/</link>
+      <pubDate>Thu, 04 Jan 2018 09:16:21 +0200</pubDate>
       
-      <guid>https://niconoe.github.io/post/my-first-post/</guid>
-      <description>Real content coming soon!</description>
+      <guid>https://niconoe.github.io/post/simplest-antarctica-map-leaflet/</guid>
+      <description>I recently needed to show simple lat/lon points on a web map of Antarctica. While putting a (point) marker on a map is super easy, we also need a basemap (background) to give this point some context. In this case, it came with a couple of challenges:
+ Leaflet normally displays maps using the Google Mercator projection (aka EPSG:3857), but it terribly distorts area near the poles, making Antarctica appears as a wide band at the bottom of the map.</description>
     </item>
     
   </channel>
